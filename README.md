@@ -1,4 +1,4 @@
-**finding_stocks_with_low_price**
+**finding_quality_stocks_with_low_price**
 
 It is a buy side trading strategy that has been tested on historical data.
 (Period: last 4 years, Interval: 1 day, Script: All constituents of NIFTY50)
